@@ -1,0 +1,10 @@
+[13-Sep-2019 14:54:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/projects/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 2
+[13-Sep-2019 14:54:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/projects/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 6
+[13-Sep-2019 14:54:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/projects/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 9
+[13-Sep-2019 14:54:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/projects/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 2
+[13-Sep-2019 14:54:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/projects/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 6
+[13-Sep-2019 14:54:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/projects/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 9
+[13-Sep-2019 14:54:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/projects/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 2
+[13-Sep-2019 14:54:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/projects/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 6
+[13-Sep-2019 14:54:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/projects/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 9
+[29-Oct-2019 14:45:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/anshuwap/public_html/jannat.projects.anshuwap.com/restApi/mpin/mpin_login.php on line 9
